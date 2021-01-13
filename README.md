@@ -1,0 +1,2 @@
+# JavaSample
+Own sample 
