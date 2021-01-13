@@ -14,7 +14,7 @@ public class test1 {
 	}
 	@Test
 	public void atest() {
-		System.out.println("tesdxxsadd");
+		System.out.println("cc");
 		System.out.println(AddInt.myMethod(5,6 ));
 	}
 
