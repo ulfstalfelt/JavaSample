@@ -17,6 +17,7 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		se.stalfelt.JavaSample.HelloUlf.PrinHelloStalfelt();
 		se.stalfelt.JavaSample.HelloUlf.PrinHelloUlf();
+			System.out.println("Hello World 21sept");
 	}
 
 }
