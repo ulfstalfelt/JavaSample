@@ -14,7 +14,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello World");
+		System.out.println("Hello Worldxxx");
 		se.stalfelt.JavaSample.HelloUlf.PrinHelloStalfelt();
 		se.stalfelt.JavaSample.HelloUlf.PrinHelloUlf();
 	}
